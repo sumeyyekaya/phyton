@@ -1,2 +1,0 @@
-# phyton
-Phyton çalışması
